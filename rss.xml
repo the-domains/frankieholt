@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[frankieholt]]></title>
         <description><![CDATA[frankieholt]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/frankieholt/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 23 Mar 2016 03:34:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 23 Mar 2016 03:34:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/frankieholt/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c2cfb167-586e-4ced-bfef-9381094ca1c6.jpg">]]></description>
+            <link>https://thegrid.ai/frankieholt/frankie-began-her-professional-career-after-first-studying-p/index.html</link>
+            <guid isPermaLink="false">505cecee-27b4-44ed-a29a-87649fce55f1</guid>
+            <pubDate>Wed, 23 Mar 2016 03:34:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b33d72a6-ab26-4e16-ba60-4181f862fabe.jpg">]]></description>
-            <link>undefinedfitting-in-is-failing/index.html</link>
+            <link>https://thegrid.ai/frankieholt/fitting-in-is-failing/index.html</link>
             <guid isPermaLink="false">a1d3aaf9-99ca-4397-a945-f9c244943151</guid>
             <pubDate>Wed, 23 Mar 2016 03:34:12 GMT</pubDate>
         </item>
