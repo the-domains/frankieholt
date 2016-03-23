@@ -1,7 +1,7 @@
 name: frankie holt
 favicon: null
-layout_spectrum: 0.06804
-typography_spectrum: 0.30963
+layout_spectrum: 1
+typography_spectrum: 0.50229
 cta:
   domain: null
   bucket: null
@@ -23,6 +23,6 @@ color:
     - '#160600'
   brandStrength: 0.3125
   lightness: 0.625
-  saturation: 0.375
+  saturation: 0.5625
   rhythmicContrast: 0.75
 purpose: []
