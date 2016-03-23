@@ -1,7 +1,7 @@
 name: frankieholt
 favicon: null
-layout_spectrum: 0.44941674964502454
-typography_spectrum: 0.8150494678411633
+layout_spectrum: 0.00382
+typography_spectrum: 0.64144
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#BCAB47'
     - '#6B574B'
     - '#160600'
-  brandStrength: 0.44299644767306745
-  lightness: 0.390984789468348
-  saturation: 0.41829198389314115
-  rhythmicContrast: 0.8615650502033532
+  brandStrength: 0.3125
+  lightness: 0.6875
+  saturation: 0.875
+  rhythmicContrast: 0.5
 purpose: []
