@@ -1,0 +1,28 @@
+name: frankieholt
+favicon: null
+layout_spectrum: 0.44941674964502454
+typography_spectrum: 0.8150494678411633
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.44299644767306745
+  lightness: 0.390984789468348
+  saturation: 0.41829198389314115
+  rhythmicContrast: 0.8615650502033532
+purpose: []
