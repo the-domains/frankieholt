@@ -1,6 +1,6 @@
 name: frankie holt
 favicon: null
-layout_spectrum: 0.44419
+layout_spectrum: 0.60933
 typography_spectrum: 0.2928
 cta:
   domain: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.3125
+    - '#ffffff'
+    - '#010101'
+    - '#2d2d2d'
+    - '#808080'
+    - '#b3b3b3'
+  brandStrength: 0.25
   lightness: 0.625
   saturation: 0.5625
-  rhythmicContrast: 0
+  rhythmicContrast: 0.25
 purpose: []
